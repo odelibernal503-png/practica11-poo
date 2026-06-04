@@ -1,0 +1,1 @@
+{"version":3,"file":"suscripciones.d.ts","sourceRoot":"","sources":["../src/suscripciones.ts"],"names":[],"mappings":"AACA,8BAAsB,eAAe;IAEd,MAAM,EAAE,MAAM;gBAAd,MAAM,EAAE,MAAM;IAEjC,QAAQ,CAAC,aAAa,IAAI,IAAI;CACjC;AAGD,8BAAsB,oBAAqB,SAAQ,eAAe;IAInD,MAAM,EAAE,MAAM;gBADrB,MAAM,EAAE,MAAM,EACP,MAAM,EAAE,MAAM;IAKzB,QAAQ,CAAC,eAAe,IAAI,IAAI;CACnC"}

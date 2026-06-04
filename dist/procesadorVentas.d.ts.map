@@ -1,0 +1,1 @@
+{"version":3,"file":"procesadorVentas.d.ts","sourceRoot":"","sources":["../src/procesadorVentas.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,cAAc,CAAC;AAC7C,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AACpC,OAAO,EAAE,eAAe,EAAE,MAAM,iBAAiB,CAAC;AAElD,qBAAa,gBAAgB;IAGrB,OAAO,CAAC,WAAW;gBAAX,WAAW,EAAE,aAAa;IAGtC,YAAY,CACR,OAAO,EAAE,OAAO,EAChB,IAAI,EAAE,eAAe,GACtB,IAAI;CAaV"}

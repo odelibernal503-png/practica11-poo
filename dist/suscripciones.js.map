@@ -1,0 +1,1 @@
+{"version":3,"file":"suscripciones.js","sourceRoot":"","sources":["../src/suscripciones.ts"],"names":[],"mappings":";;;AAAA,aAAa;AACb,MAAsB,eAAe;IAEjC,YAAmB,MAAc;QAAd,WAAM,GAAN,MAAM,CAAQ;IAAG,CAAC;CAGxC;AALD,0CAKC;AAED,0BAA0B;AAC1B,MAAsB,oBAAqB,SAAQ,eAAe;IAE9D,YACI,MAAc,EACP,MAAc;QAErB,KAAK,CAAC,MAAM,CAAC,CAAC;QAFP,WAAM,GAAN,MAAM,CAAQ;IAGzB,CAAC;CAGJ;AAVD,oDAUC"}
