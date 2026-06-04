@@ -14,5 +14,3 @@ Incluye:
 ✔ Plan Estudiantil
 ✔ Notificaciones (WhatsApp / Email)
 
-## Ejecutar
-npm run dev
